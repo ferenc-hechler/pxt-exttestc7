@@ -100,7 +100,14 @@ fixed wrong calls of etlog() in exttestc.cpp.
 
 commented in logInt and logFloat.
 
+- CALLIOPE HW
+- MICROBIT HW
 
+error in etutils.cpp, missing include <stdarg>
+
+### v3.7.1
+
+fixed
 
 
 ## ~ hint
